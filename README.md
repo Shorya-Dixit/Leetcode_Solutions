@@ -26,3 +26,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0127-word-ladder) |
+| [0547-number-of-provinces](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
+# Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
+# Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
+# Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
