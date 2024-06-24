@@ -14,3 +14,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1349-check-if-it-is-a-straight-line) |
+# Hash Table
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0127-word-ladder) |
+# String
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0127-word-ladder) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0127-word-ladder) |
