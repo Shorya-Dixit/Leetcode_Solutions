@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Array
 |  |
 | ------- |
+| [1036-rotting-oranges](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1036-rotting-oranges) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 # Math
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0127-word-ladder) |
 | [0547-number-of-provinces](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1036-rotting-oranges) |
 # Depth-First Search
 |  |
 | ------- |
@@ -39,3 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
+# Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1036-rotting-oranges) |
