@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Array
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
 | [1036-rotting-oranges](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1036-rotting-oranges) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -51,3 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1036-rotting-oranges](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1036-rotting-oranges) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+# Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
