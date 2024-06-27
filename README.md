@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0801-is-graph-bipartite) |
+| [1916-find-center-of-star-graph](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1916-find-center-of-star-graph) |
 # Matrix
 |  |
 | ------- |
