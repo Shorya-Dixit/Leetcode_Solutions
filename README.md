@@ -68,3 +68,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-reduce-array-size-to-the-half](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1464-reduce-array-size-to-the-half) |
+# Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
+# Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
+# Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
