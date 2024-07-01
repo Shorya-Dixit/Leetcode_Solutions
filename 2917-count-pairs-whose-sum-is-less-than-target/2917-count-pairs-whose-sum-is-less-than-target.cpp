@@ -1,12 +1,21 @@
 class Solution {
 public:
     int countPairs(vector<int>& nums, int target) {
-        int c=0;
-        for(int i=0;i<nums.size();i++){
-            for(int j=i+1;j<nums.size();j++){
-                if(nums[i]+nums[j]<target) c++;
-            }
+       sort(nums.begin(),nums.end());
+       int answer=0;
+       int start=0;
+       int end=nums.size()-1;
+       while(start<end)
+       {
+        if(nums[start]+nums[end]<target){
+            answer+=(end-start);
+            start++;          
         }
-        return c;
+        else{
+            end--;
+        }
+       }
+       return answer;
+        
     }
 };
