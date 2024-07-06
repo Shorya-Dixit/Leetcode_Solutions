@@ -1,15 +1,26 @@
 class Solution {
 public:
     int integerBreak(int n) {
-        if(n==3) return 2;
         if(n==2) return 1;
-        vector<int>dp(n+1,-1);
-        dp[2]=2;
-        dp[3]=3;
-        for(int i=4;i<=n;i++){
-            dp[i]=max(dp[i-2]*2,dp[i-3]*3);
+        if(n==3) return 2;
+        int ans=1;
+        while(n)
+        {
+            if(n-3>=2)
+            {
+                ans*=3;
+                n-=3;
+            }
+            else 
+            {
+                ans*=n;
+                n-=n;
+            }
         }
-        return dp[n];
+        return ans;
     }
 };
-// here dp[x] show the maximum possible product using factors of x
+// check last submitted solution too. used dp in that
+// we can infer that if we break numbers into 2 and 3. product will be maximum then.
+// as all numbers can be prime factorized and evry prime factor other that 2 and 3 can be 
+//split such that the product of splitted numbers is greater than that particular prime factor
