@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0062-unique-paths) |
+| [0119-pascals-triangle-ii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0343-integer-break](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0392-is-subsequence) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0055-jump-game) |
+| [0119-pascals-triangle-ii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0494-target-sum](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0494-target-sum) |
