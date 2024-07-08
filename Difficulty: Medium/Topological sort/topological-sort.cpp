@@ -3,30 +3,40 @@
 using namespace std;
 
 // } Driver Code Ends
-class Solution
-{
-	public:
-	void dfs(vector<int> adj[],vector<int>&vis,stack<int>&st,int node){
-	    vis[node]=1;
-	    for(auto it:adj[node]){
-	        if(!vis[it]) dfs(adj,vis,st,it);
-	    }
-	    st.push(node);
-	    return;
-	}
-	vector<int> topoSort(int V, vector<int> adj[]) 
-	{   
-	    vector<int>vis(V,0);
-	    vector<int>ans;
-	    stack<int>st;
-	    for(int i=0;i<V;i++){
-	        if(!vis[i]) dfs(adj,vis,st,i);
-	    }
-	    while(!st.empty()){
-	        ans.push_back(st.top());
-	        st.pop();
-	    }
-	    return ans;
+
+class Solution {
+public:
+	//Function to return list containing vertices in Topological order.
+	vector<int> topoSort(int V, vector<int> adj[])
+	{
+		int indegree[V] = {0};
+		for (int i = 0; i < V; i++) {
+			for (auto it : adj[i]) {
+				indegree[it]++;
+			}
+		}
+
+		queue<int> q;
+		for (int i = 0; i < V; i++) {
+			if (indegree[i] == 0) {
+				q.push(i);
+			}
+		}
+		vector<int> topo;
+		while (!q.empty()) {
+			int node = q.front();
+			q.pop();
+			topo.push_back(node);
+			// node is in your topo sort
+			// so please remove it from the indegree
+
+			for (auto it : adj[node]) {
+				indegree[it]--;
+				if (indegree[it] == 0) q.push(it);
+			}
+		}
+
+		return topo;
 	}
 };
 //If we will print nodes in descending order of their 
