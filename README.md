@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [1293-three-consecutive-odds](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1293-three-consecutive-odds) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1803-average-waiting-time](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1803-average-waiting-time](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Recursion
