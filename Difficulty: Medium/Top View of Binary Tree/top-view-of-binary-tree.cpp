@@ -100,8 +100,6 @@ struct Node
 class Solution
 {
     public:
-    //Function to return a list of nodes visible from the top view 
-    //from left to right in Binary Tree.
     vector<int> topView(Node *root)
     {
         vector<int> ans;
@@ -127,8 +125,8 @@ class Solution
         }
         return ans;
     }
-
 };
+//if we remove the if condition before inserting in map. it will give bottom view
 
 
 
