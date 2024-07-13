@@ -13,3 +13,5 @@ public:
         return f(nums,target,0,0);
     }
 };
+// we wont be able to memoize it as to do it we have to declare a dp[ind][result]
+// but result can also be negative at somepoint before the final result(positive)
