@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0343-integer-break](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0343-integer-break) |
+| [0909-stone-game](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0909-stone-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Dynamic Programming
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0518-coin-change-ii) |
+| [0909-stone-game](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0909-stone-game) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Combinatorics
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0518-coin-change-ii) |
+| [0909-stone-game](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0909-stone-game) |
 | [1293-three-consecutive-odds](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1293-three-consecutive-odds) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1803-average-waiting-time](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1803-average-waiting-time) |
@@ -287,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
