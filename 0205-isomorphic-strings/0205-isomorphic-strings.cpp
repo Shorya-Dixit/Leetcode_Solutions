@@ -12,8 +12,6 @@ public:
             }
             else{
                 if(map_s[s[i]]!=map_t[t[i]]) return false;
-                map_s[s[i]]=i;
-                map_t[t[i]]=i;
             }
         }
         return true;
