@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0392-is-subsequence) |
+| [1078-remove-outermost-parentheses](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Stack
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
+| [1078-remove-outermost-parentheses](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1078-remove-outermost-parentheses) |
 ## Design
 |  |
 | ------- |
