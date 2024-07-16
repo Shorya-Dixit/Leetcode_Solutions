@@ -7,8 +7,7 @@ public:
         int right=0;
         int i=0;
         while(i<n){
-            while(i<n && s[i]==' ')i++;
-            if(i==n)break; // to stop index going out of bounds
+            if(s[i]==' ') {i++;continue;}
             while(i<n && s[i]!=' '){
                 s[right++]=s[i++];
             }
