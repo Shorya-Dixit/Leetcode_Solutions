@@ -22,3 +22,4 @@ public:
         return ans;
     }
 };
+// we wont use while loop to get frequency of replaced letters under limit as we did in previous questions
