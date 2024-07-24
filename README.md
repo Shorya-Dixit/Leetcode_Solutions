@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1753-path-with-minimum-effort](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2379-maximum-total-importance-of-roads) |
 ## Two Pointers
 |  |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1753-path-with-minimum-effort](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1803-average-waiting-time](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2047-find-a-peak-element-ii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2047-find-a-peak-element-ii) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1753-path-with-minimum-effort](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1753-path-with-minimum-effort](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -265,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1753-path-with-minimum-effort](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1753-path-with-minimum-effort) |
 ## Topological Sort
 |  |
 | ------- |
@@ -372,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2047-find-a-peak-element-ii) |
 ## Trie
 |  |
@@ -403,4 +409,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Union Find
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1753-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
