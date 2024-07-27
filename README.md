@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0518-coin-change-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0909-stone-game](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0909-stone-game) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Combinatorics
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2379-maximum-total-importance-of-roads) |
 ## Sorting
 |  |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Hash Table
 |  |
 | ------- |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Merge Sort
 |  |
 | ------- |
