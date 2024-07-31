@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0210-course-schedule-ii) |
 | [0744-network-delay-time](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0813-all-paths-from-source-to-target](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0744-network-delay-time](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0813-all-paths-from-source-to-target](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0744-network-delay-time](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0813-all-paths-from-source-to-target](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0494-target-sum) |
+| [0813-all-paths-from-source-to-target](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0813-all-paths-from-source-to-target) |
 ## Linked List
 |  |
 | ------- |
