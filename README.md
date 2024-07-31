@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Counting
 |  |
 | ------- |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
 | ------- |
