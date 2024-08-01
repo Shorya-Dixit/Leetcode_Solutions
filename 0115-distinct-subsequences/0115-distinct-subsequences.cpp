@@ -14,3 +14,4 @@ public:
         return count(s,t,s.size()-1,t.size()-1,dp);
     }
 };
+// here dp[i][j] represents the no. of distinct subsequences of s[0 to i] which equals t[0 to j]. 
