@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0812-rotate-string](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1170-shortest-common-supersequence](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0909-stone-game](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0909-stone-game) |
+| [1170-shortest-common-supersequence](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
