@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
