@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0812-rotate-string](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1129-longest-string-chain](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0909-stone-game](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0909-stone-game) |
+| [1129-longest-string-chain](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0948-sort-an-array](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1129-longest-string-chain](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1129-longest-string-chain) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2379-maximum-total-importance-of-roads) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0455-assign-cookies) |
+| [1129-longest-string-chain](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1129-longest-string-chain) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Array
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1129-longest-string-chain](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1293-three-consecutive-odds](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1293-three-consecutive-odds) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -338,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1034-subarrays-with-k-different-integers) |
+| [1129-longest-string-chain](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1129-longest-string-chain) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
