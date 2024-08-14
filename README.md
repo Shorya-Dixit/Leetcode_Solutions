@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0162-find-peak-element](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0198-house-robber) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 ## Backtracking
@@ -439,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1753-path-with-minimum-effort) |
