@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Design
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0735-asteroid-collision](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
 | [0909-stone-game](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0909-stone-game) |
 | [0948-sort-an-array](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
 | [1803-average-waiting-time](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
