@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2227-sum-of-subarray-ranges](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2227-sum-of-subarray-ranges](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Backtracking
 |  |
 | ------- |
