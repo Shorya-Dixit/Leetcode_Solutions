@@ -36,7 +36,7 @@ public:
         vector<int>l=pse(arr);
         long ans=0;
         for(int i=0;i<arr.size();i++){
-            long long left=i-l[i];
+            long left=i-l[i];
             long right=r[i]-i;
             ans+=(right*left)*arr[i]%mod;
             ans%=mod;
