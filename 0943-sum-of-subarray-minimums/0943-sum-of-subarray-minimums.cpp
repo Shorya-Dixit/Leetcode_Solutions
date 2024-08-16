@@ -34,9 +34,9 @@ public:
     int sumSubarrayMins(vector<int>& arr) {
         vector<int>r=nsee(arr);
         vector<int>l=pse(arr);
-        long long ans=0;
+        long ans=0;
         for(int i=0;i<arr.size();i++){
-            long left=i-l[i];
+            long long left=i-l[i];
             long right=r[i]-i;
             ans+=(right*left)*arr[i]%mod;
             ans%=mod;
