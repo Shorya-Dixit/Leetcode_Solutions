@@ -32,9 +32,9 @@ public:
         getPath(root,p,pathp,flag);
         flag=0;
         getPath(root,q,pathq,flag);
-        while(pathp.size()>pathq.size()) pathp.pop_back();
-        while(pathp.size()<pathq.size()) pathq.pop_back();
-        while(pathp.size()>0){
+        while(pathp.size()>pathq.size()) pathp.pop_back(); //ancestor is same, must be on same level
+        while(pathp.size()<pathq.size()) pathq.pop_back(); //ancestor is same, must be on same level
+        while(pathp.size()>0){ //comparing on same level
             if(pathp.back()->val==pathq.back()->val) return pathp.back();
             else {
                 pathp.pop_back();
