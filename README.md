@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0820-find-eventual-safe-states) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1753-path-with-minimum-effort](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1753-path-with-minimum-effort) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0820-find-eventual-safe-states) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0966-binary-subarrays-with-sum](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -440,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Bit Manipulation
 |  |
