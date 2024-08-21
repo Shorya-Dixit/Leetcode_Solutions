@@ -1,53 +1,27 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
-    // Initialize a global variable
-    // 'prev' to keep track of the
-    // previously processed node.
-    TreeNode* prev = NULL;
-
-    // Function to flatten a binary tree
-    // to a right next Linked List structure
+// check previous submissions too
+// this one is done using morris traversal
     void flatten(TreeNode* root) {
-       // Base case: If the current
-       // node is NULL, return.
-       if(root==NULL){
-           return;
-       }
-
-       // Recursive call to
-       // flatten the right subtree
-       flatten(root->right);
-       
-       // Recursive call to
-       // flatten the left subtree
-       flatten(root->left);
-       
-       // At this point, both left and right
-       // subtrees are flattened, and 'prev'
-       // is pointing to the rightmost node
-       // in the flattened right subtree.
-
-       // Set the right child of
-       // the current node to 'prev'.
-       root->right = prev;
-
-       // Set the left child of the
-       // current node to NULL.
-       root->left = NULL;
-
-       // Update 'prev' to the current
-       // node for the next iteration.
-       prev = root;
+        TreeNode* curr = root;
+        while (curr) {
+            if (curr->left) {
+                // If yes, find the rightmost
+                // node in the left subtree
+                TreeNode* pre = curr->left;
+                while (pre->right) {
+                    pre = pre->right;
+                }
+                // Connect the rightmost node in
+                // the left subtree to the current
+               //  node's right child
+                pre->right = curr->right;
+                // Move the entire left subtree to the
+                // right child of the current node
+                curr->right = curr->left;
+                curr->left = NULL;
+            }
+            curr = curr->right;
+        }
     }
 };
