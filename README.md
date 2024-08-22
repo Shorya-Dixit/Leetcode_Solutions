@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0155-min-stack) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0937-online-stock-span](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0937-online-stock-span) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0146-lru-cache](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0146-lru-cache](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0146-lru-cache) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
@@ -580,4 +583,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0937-online-stock-span) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
