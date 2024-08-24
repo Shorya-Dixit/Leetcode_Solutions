@@ -1,8 +1,8 @@
 class Solution {
 public:
+// slight modification in base case
     int trade(vector<int>& prices, int bought, int i, vector<vector<int>>&dp){
-        if(i==prices.size()-1 && bought==1) return prices[i];
-        else if(i>=prices.size()-1 && bought==0) return 0;
+        if(i>=prices.size()) return 0;
 
         if(dp[i][bought]!=-1) return dp[i][bought];
 
@@ -12,7 +12,7 @@ public:
             return dp[i][bought]=max(buy,notBuy);
         }
         else {
-            int sell=trade(prices,0,i+2,dp)+prices[i];
+            int sell=trade(prices,0,i+2,dp)+prices[i]; // if sold, leave the just next stock
             int notSell=trade(prices,1,i+1,dp);
             return dp[i][bought]=max(sell,notSell);
         }
