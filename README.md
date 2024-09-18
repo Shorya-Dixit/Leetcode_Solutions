@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0909-stone-game](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1129-longest-string-chain](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1170-shortest-common-supersequence) |
+| [1240-stone-game-ii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1129-longest-string-chain](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1240-stone-game-ii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1293-three-consecutive-odds) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1240-stone-game-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -582,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1240-stone-game-ii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1240-stone-game-ii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Union Find
 |  |
