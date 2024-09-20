@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1522-stone-game-iii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1522-stone-game-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1522-stone-game-iii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1522-stone-game-iii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1522-stone-game-iii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1522-stone-game-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -537,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0909-stone-game](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1240-stone-game-ii) |
+| [1522-stone-game-iii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1522-stone-game-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
