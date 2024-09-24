@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
