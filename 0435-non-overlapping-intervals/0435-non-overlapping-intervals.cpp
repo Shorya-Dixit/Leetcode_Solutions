@@ -21,7 +21,9 @@ public:
         return count;
     }
 };
-
+// By sorting intervals by their end times, we can make a greedy choice to always select the
+// interval that finishes the earliest. This helps in maximizing the number of non-overlapping
+// intervals because it leaves the maximum possible room for subsequent intervals.
 
 
 
