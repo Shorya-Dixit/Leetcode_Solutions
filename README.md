@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1522-stone-game-iii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1522-stone-game-iii) |
+| [1788-stone-game-vi](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1788-stone-game-vi) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1788-stone-game-vi](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1788-stone-game-vi) |
 | [2032-largest-odd-number-in-string](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2379-maximum-total-importance-of-roads) |
 ## Graph
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1129-longest-string-chain) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1788-stone-game-vi](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1788-stone-game-vi) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2379-maximum-total-importance-of-roads) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Heap (Priority Queue)
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0948-sort-an-array) |
 | [1753-path-with-minimum-effort](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1753-path-with-minimum-effort) |
+| [1788-stone-game-vi](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1788-stone-game-vi) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2379-maximum-total-importance-of-roads) |
 ## Two Pointers
 |  |
@@ -326,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1753-path-with-minimum-effort) |
+| [1788-stone-game-vi](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1788-stone-game-vi) |
 | [1803-average-waiting-time](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2047-find-a-peak-element-ii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2047-find-a-peak-element-ii) |
@@ -548,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1522-stone-game-iii) |
+| [1788-stone-game-vi](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1788-stone-game-vi) |
 ## Divide and Conquer
 |  |
 | ------- |
