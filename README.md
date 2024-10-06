@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0343-integer-break](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
 | [0222-count-complete-tree-nodes](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Ordered Set
