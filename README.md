@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0136-single-number](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0198-house-robber) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Ordered Set
