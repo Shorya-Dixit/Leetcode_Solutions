@@ -4,18 +4,17 @@ public:
         if(dividend==INT_MIN && divisor==-1) return INT_MAX;
         if(dividend==INT_MIN && divisor==1) return INT_MIN;   
         //Converting divisors and dividend to their positive values
-        long int dd = abs(dividend), dv = abs(divisor);   
-        int res=0;
-        while(dv<=dd) {
-            long int mul=dv, tmp=1;
-            while(mul<=dd-mul) {
-                mul+=mul;
-                tmp+=tmp;
+        long n = abs(dividend), d = abs(divisor);   
+        int quotient=0;
+        while(d<=n) {
+            long count=0;
+            while(n>=(d<<(count+1))) {
+                count++;
             }
-            res+=tmp;
-            dd-=mul;
+            quotient+=1<<count;
+            n-=d<<count;
         }    
-        if((dividend<0&&divisor>0) || (dividend>0&&divisor<0)) return -res;    
-        return res;     
+        if((dividend<0&&divisor>0) || (dividend>0&&divisor<0)) return -quotient;    
+        return quotient;     
     }
 };
