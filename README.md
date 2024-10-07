@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0813-all-paths-from-source-to-target) |
 ## Linked List
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0461-hamming-distance](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0461-hamming-distance) |
