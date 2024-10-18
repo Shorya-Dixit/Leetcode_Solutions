@@ -544,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0461-hamming-distance](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0461-hamming-distance) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0190-reverse-bits](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0948-sort-an-array) |
