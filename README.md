@@ -479,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0146-lru-cache) |
+| [0328-odd-even-linked-list](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0328-odd-even-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
