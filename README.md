@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0146-lru-cache) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shorya-Dixit/Leetcode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
