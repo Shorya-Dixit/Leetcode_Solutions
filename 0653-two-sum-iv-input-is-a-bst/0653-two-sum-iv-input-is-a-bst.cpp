@@ -11,25 +11,22 @@
  */
 class Solution {
 public:
-    bool present(TreeNode* root,int r){
-        if(!root) return false;
-        if(root->val==r) return true;
-        else if(root->val>r) return present(root->left,r);
-        else return present(root->right,r);
+    void getInorder(TreeNode* root,vector<int>&v){
+        if(!root) return;
+        getInorder(root->left,v);
+        v.push_back(root->val);
+        getInorder(root->right,v);
+        return;
     }
     bool findTarget(TreeNode* root, int k) {
-        queue<TreeNode*>q;
-        q.push(root);
-        while(!q.empty()){
-            TreeNode* node=q.front();
-            int val=node->val;
-            int rem=k-val;
-            q.pop();
-            if(val!=rem && present(root,rem)) return true;
-            else{
-                if(node->left) q.push(node->left);
-                if(node->right) q.push(node->right);
-            }
+        vector<int>v;
+        getInorder(root,v);
+        int left=0,right=v.size()-1;
+        while(left<right){
+            int sum=v[left]+v[right];
+            if(sum==k) return true;
+            else if(sum>k) right--;
+            else if(sum<k) left++;
         }
         return false;
     }
